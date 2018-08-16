@@ -1,2 +1,2 @@
 # MakeFiles
-About MakeFiles.
+About simple makefile demo.
